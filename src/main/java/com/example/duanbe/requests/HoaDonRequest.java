@@ -1,7 +1,7 @@
 package com.example.duanbe.request;
 
-import com.example.gbsports.entity.KhachHang;
-import com.example.gbsports.entity.Voucher;
+import com.example.duanbe.entity.KhachHang;
+import com.example.duanbe.entity.Voucher;
 import jakarta.persistence.Temporal;
 import jakarta.persistence.TemporalType;
 import lombok.Data;

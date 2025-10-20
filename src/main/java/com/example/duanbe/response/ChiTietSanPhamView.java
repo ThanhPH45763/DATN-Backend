@@ -1,8 +1,8 @@
 package com.example.duanbe.response;
 
-import com.example.gbsports.entity.KichThuoc;
-import com.example.gbsports.entity.MauSac;
-import com.example.gbsports.entity.SanPham;
+import com.example.duanbe.entity.KichThuoc;
+import com.example.duanbe.entity.MauSac;
+import com.example.duanbe.entity.SanPham;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Temporal;

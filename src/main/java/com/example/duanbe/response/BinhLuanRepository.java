@@ -1,7 +1,7 @@
 package com.example.duanbe.response;
 
-import com.example.gbsports.entity.BinhLuan;
-import com.example.gbsports.entity.BinhLuanId;
+import com.example.duanbe.entity.BinhLuan;
+import com.example.duanbe.entity.BinhLuanId;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;

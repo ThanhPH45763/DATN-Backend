@@ -1,8 +1,8 @@
 package com.example.duanbe.request;
 
-import com.example.gbsports.entity.ChatLieu;
-import com.example.gbsports.entity.DanhMuc;
-import com.example.gbsports.entity.ThuongHieu;
+import com.example.duanbe.entity.ChatLieu;
+import com.example.duanbe.entity.DanhMuc;
+import com.example.duanbe.entity.ThuongHieu;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 import jakarta.validation.Valid;

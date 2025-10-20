@@ -1,6 +1,6 @@
 package com.example.duanbe.response;
 
-import com.example.gbsports.entity.ChiTietSanPham;
+import com.example.duanbe.entity.ChiTietSanPham;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

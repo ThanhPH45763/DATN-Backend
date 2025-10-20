@@ -1,8 +1,8 @@
 package com.example.duanbe.request;
 
-import com.example.gbsports.entity.KichThuoc;
-import com.example.gbsports.entity.MauSac;
-import com.example.gbsports.entity.SanPham;
+import com.example.duanbe.entity.KichThuoc;
+import com.example.duanbe.entity.MauSac;
+import com.example.duanbe.entity.SanPham;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.JoinColumn;
@@ -22,7 +22,6 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Date;
 
-@Entity
 @AllArgsConstructor
 @NoArgsConstructor
 public class ChiTietSanPhamRequest {
