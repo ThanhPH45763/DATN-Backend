@@ -24,6 +24,7 @@ import java.util.Date;
 
 @AllArgsConstructor
 @NoArgsConstructor
+@Data
 public class ChiTietSanPhamRequest {
     private Integer id_chi_tiet_san_pham;
     @NotNull(message = "Không để trống sản phẩm")

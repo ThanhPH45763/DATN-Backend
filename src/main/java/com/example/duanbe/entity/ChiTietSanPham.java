@@ -13,6 +13,7 @@ import java.math.BigDecimal;
 import java.util.Date;
 
 @Entity
+@Data
 @AllArgsConstructor
 @NoArgsConstructor
 @Table(name = "chi_tiet_san_pham")
